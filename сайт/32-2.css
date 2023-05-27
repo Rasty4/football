@@ -294,3 +294,6 @@ body{
         transform: rotate(360deg)
     }
 }
+body{
+    user-select: none;
+}
